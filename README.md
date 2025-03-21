@@ -82,7 +82,18 @@ These results confirm that the model significantly outperforms previous approach
 
 ## Cite
 If you use this code, please cite our paper:
-{% gist 06da02744aedb243dfa6c39fed90cc6e %}
 
+
+```bibtex
+@misc{guzmanolivares2025sandwichsemanticalanalysisneighbours,
+      title={SANDWiCH: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc}, 
+      author={Daniel Guzman-Olivares and Lara Quijano-Sanchez and Federico Liberatore},
+      year={2025},
+      eprint={2503.05958},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.05958}, 
+}
+```
 
 
