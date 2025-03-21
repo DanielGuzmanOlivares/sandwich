@@ -2,3 +2,9 @@ poetry.lock
 *__pycache__/
 *.pyc
 results/*.json
+data/babelnet
+data/benchmarks
+**.*.zip
+models.zip
+models
+**.*__MAC
