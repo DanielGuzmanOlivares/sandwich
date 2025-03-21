@@ -82,7 +82,7 @@ These results confirm that the model significantly outperforms previous approach
 
 ## Cite
 If you use this code, please cite our paper:
-{% gist 06da02744aedb243dfa6c39fed90cc6e %}
+<script src="https://gist.github.com/DanielGuzmanOlivares/06da02744aedb243dfa6c39fed90cc6e.js"></script>
 
 
 
