@@ -8,7 +8,7 @@ This repository contains the inference code and models associated with our NAACL
 The released version of the code differs slightly from the one used in the paper, as some parts of the pipeline had to be adapted from proprietary software to open-source Python implementations. However, the benchmark results (see below) still demonstrate a significant improvement over the previous state-of-the-art and remain within the same magnitude as those reported in the paper.
 
 ## License Information
-The models and code in this repository are distributed under an MIT license. However, the data that the code uses is a modification of a small part of BabelNet, which is licensed under the non-commercial BabelNet license (https://babelnet.org/full-license). These extracts are derived from BabelNet 5.3 offline indices. A copy of the BabelNet license is included in [data/babelnet_license.txt](https://github.com/DanielGuzmanOlivares/sandwich/data/babelnet_license.txt).
+The models and code in this repository are distributed under an MIT license. However, the data that the code uses is a modification of a small part of BabelNet, which is licensed under the non-commercial BabelNet license (https://babelnet.org/full-license). These extracts are derived from BabelNet 5.3 offline indices. A copy of the BabelNet license is included in [data/babelnet_license.txt](https://github.com/DanielGuzmanOlivares/sandwich/blob/main/data/babelnet_license.txt).
 
 ## Setup & Installation
 To set up this project, you need **Conda (or Miniconda)** and the **Poetry** package manager. You can install them as follows:
