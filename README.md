@@ -3,6 +3,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sandwich-semantical-analysis-of-neighbours/word-sense-disambiguation-on-supervised)](https://paperswithcode.com/sota/word-sense-disambiguation-on-supervised?p=sandwich-semantical-analysis-of-neighbours)
 This repository contains the inference code and models associated with our NAACL 2025 paper. This project was developed with the support of Bulil Technologies S.L. as part of my PhD research.
 
+
 The released version of the code differs slightly from the one used in the paper, as some parts of the pipeline had to be adapted from proprietary software to open-source Python implementations. However, the benchmark results (see below) still demonstrate a significant improvement over the previous state-of-the-art and remain within the same magnitude as those reported in the paper.
 
 ## License Information
