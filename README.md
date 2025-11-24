@@ -44,7 +44,7 @@ Once these dependencies are installed, follow these steps:
     ```
 
 3. **Download the model weights:**
-    Download the model weights from [this link](https://drive.google.com/file/d/1BUqg68_kC_nYCBFidw7jBVv6FN_iVDcN/view?usp=sharing) and extract them into the project folder.
+    Download the model weights from [this link](https://drive.google.com/file/d/1D1XoR5aKRyOnD_TI8MROnpMoFLSYeDC3/view?usp=sharing) and extract them into the project folder.
 
 ## Running the Benchmarks
 To evaluate the model, use the following command:
@@ -88,14 +88,23 @@ If you use this code, please cite our paper:
 
 
 ```bibtex
-@misc{guzmanolivares2025sandwichsemanticalanalysisneighbours,
-      title={SANDWiCH: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc}, 
-      author={Daniel Guzman-Olivares and Lara Quijano-Sanchez and Federico Liberatore},
-      year={2025},
-      eprint={2503.05958},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.05958}, 
+@inproceedings{guzman-olivares-etal-2025-sandwich,
+    title = "{SANDW}i{CH}: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc",
+    author = "Guzman Olivares, Daniel  and
+      Quijano, Lara  and
+      Liberatore, Federico",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.358/",
+    doi = "10.18653/v1/2025.naacl-long.358",
+    pages = "7019--7033",
+    ISBN = "979-8-89176-189-6"
 }
 ```
 
